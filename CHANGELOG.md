@@ -1,5 +1,13 @@
 # Changelog
 
+## [9.11.1](https://github.com/trycourier/courier-python/compare/v9.11.0...v9.11.1) (2026-10-19)
+
+
+### Documentation
+
+* **api:** describe the AI node model constraint [C-21614] ([#210](https://github.com/trycourier/courier-python/issues/210)) ([5c0a5b7](https://github.com/trycourier/courier-python/commit/5c0a5b700238233a3d9540f6375faaec6053c244))
+* **api:** document provider settings.rate_limit [C-21732] ([#212](https://github.com/trycourier/courier-python/issues/212)) ([5e7b2f4](https://github.com/trycourier/courier-python/commit/5e7b2f446dd94b8e3a85f837b4a635631f153e52))
+
 ## [9.11.0](https://github.com/trycourier/courier-python/compare/v9.10.0...v9.11.0) (2026-09-24)
 
 
